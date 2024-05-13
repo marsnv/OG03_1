@@ -52,6 +52,6 @@ while running:
 
     pygame.display.flip()
     clock.tick(60)
-
+# 9
 pygame.quit()
-# 3
+# 4
